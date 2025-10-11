@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=40&lines=Hi+👋+I'm+Yash+Bharat+Jadhav..;Full-Stack+Developer+|+ML+Enthusiast;Dive+into+coding+;and+learning+new+things+every+day..&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=40&lines=Hi+👋+I'm+Yash+Bharat+Jadhav..;Full-Stack+Developer+|+ML+Enthusiast;Diving+into+coding+;and+learning+new+things+every+day..&center=true">
 </p>
 
 # 🖥️ Technical Skills:

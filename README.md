@@ -34,11 +34,16 @@
     <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/512px-Matplotlib_icon.svg.png" alt="matplotlib" width="40" height="40"/>
+</a>
+
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
+    <a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/>
+</a>
+
 </p>
 
 ### **Web & Frameworks**

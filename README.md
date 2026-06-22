@@ -82,10 +82,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashh972&theme=radical" alt="streak stats" />
 </p>
 
-# 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashh972&theme=radical&no-bg=true" />
-</p>
 
 ---
 
